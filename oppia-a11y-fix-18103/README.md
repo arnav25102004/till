@@ -12,6 +12,6 @@
 * **ARIA Labels:** Added `aria-label` for the Delete button and a translated `[aria-label]` for the Add button.
 
 ###  Status & Comments
-* **Current Status:** Awaiting Assignment / PR Submission.
+* **Current Status:** PR opened .. waiting for reviewers to review the solution .
 * **Reviewer Comments:** None yet; issue was self-identified as a priority for GSoC '26.
 * **Verification:** 19/19 Frontend tests passed; HTML linting passed.
