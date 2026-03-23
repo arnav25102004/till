@@ -15,3 +15,5 @@
 * **Current Status:** PR opened .. waiting for reviewers to review the solution .
 * **Reviewer Comments:** None yet; issue was self-identified as a priority for GSoC '26.
 * **Verification:** 19/19 Frontend tests passed; HTML linting passed.
+
+PR aprroved all test paassng only 1 failing which is flake but mentor krtik is saying you need to resolve it 
